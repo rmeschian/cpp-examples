@@ -4,6 +4,8 @@
  Ծրագիրը գործարկելու համար:
     g++ simple-game.cpp -o simple-game.exe
     ./simple-game.exe 
+
+ Բացատրություն: https://youtu.be/OwQP1AcnLzg
 */
 
 #include <iostream>
